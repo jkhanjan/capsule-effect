@@ -1,0 +1,11 @@
+Model Information:
+* title:	DNA VR Interactive Animation
+* source:	https://sketchfab.com/3d-models/dna-vr-interactive-animation-c9a926f139044470ad3fb053c66ad71e
+* author:	nilantunes (https://sketchfab.com/nilantunes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DNA VR Interactive Animation" (https://sketchfab.com/3d-models/dna-vr-interactive-animation-c9a926f139044470ad3fb053c66ad71e) by nilantunes (https://sketchfab.com/nilantunes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
